@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [mvhemanth.notion.site/](mvhemanth.notion.site/)
+- 👨‍💻 All of my projects are available at [mvhemanth.notion.site](mvhemanth.notion.site/)
 
-- View more about me on [vist my website](www.mvhemanth.me) 
+- View more about me on https://www.mvhemanth.me/
 
 - 💬 Ask me about **MERN, Java**
 
