@@ -10,15 +10,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanth42d&label=Profile%20views&color=0e75b6&style=flat" alt="hemanth42d" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
-
-- 👨‍💻 All of my projects are available at [mvhemanth.notion.site](mvhemanth.notion.site/)
-
-- View more about me on https://www.mvhemanth.me/
-
-- 💬 Ask me about **MERN, Java**
-
-- 📫 How to reach me **venkatahemanth42d@gmail.com**
+## Hi, I’m Hemanth 👋
+👨‍💻 Computer Science student with hands-on experience in backend systems, REST APIs, and automation tools.  
+📚 I build real, explainable projects using Java, Node.js, Docker, and SQL — tools relevant to software infrastructure and engineering roles.  
+🔍 Exploring scalable systems, CI/CD, and fundamentals that matter in real-world tech.  
+📫 Reach me: venkatahemanth42d@gmail.com | LinkedIn: linkedin.com/in/mvhemanth42
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
